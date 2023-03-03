@@ -1,4 +1,8 @@
-# Adaptive autotomy in co-evolved soft body/policy agents
+# Subtract to adapt: Autotomic robots.
+
+This is the code accompanying the paper
+
+Q. Tyrell Davis^1, Stephanie Woodman^2, Melanie Landesberg^2, Rebecca Kramer-Bottiglio^2, and Josh Bongard^1 (2023). Subtract to adapt: Autotomic robots. Proceedings of the Sixth IEEE International Conference on Soft Robotics (RoboSoft).
 
 ## Setup (Linux)
 
